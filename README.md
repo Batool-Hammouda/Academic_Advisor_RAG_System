@@ -32,7 +32,7 @@ This project, part of the Zakey LLM Bootcamp, is a RAG-based chatbot that acts a
 |------|----------------|---------|
 | Embeddings | `sentence-transformers` (`all-MiniLM-L6-v2`) | Convert questions and catalog chunks into vector embeddings |
 | Vector Search | `faiss` | Efficient similarity search over embeddings |
-| LLM / Chat & Translation | Groq `llama-3.3-8b-versatile` | Answer generation and Arabic ↔ English translation |
+| LLM / Chat & Translation | Groq `llama-3.3-8b` | Answer generation and Arabic ↔ English translation |
 | UI | `streamlit`, `ngrok` | Interactive web interface for students |
 | Data | `pandas`, `json` | Dataset management and preprocessing |
 
