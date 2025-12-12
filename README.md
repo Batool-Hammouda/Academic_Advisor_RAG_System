@@ -5,7 +5,7 @@ This project, part of the Zakey LLM Bootcamp, is a RAG-based chatbot that acts a
 
 ---
 
-## 🏗 Project Functionalities
+## Project Functionalities
 
 1. **Multilingual Question Handling**  
    - Detects if a question is in Arabic or English  
@@ -26,7 +26,7 @@ This project, part of the Zakey LLM Bootcamp, is a RAG-based chatbot that acts a
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 | Part | Tool / Library | Purpose |
 |------|----------------|---------|
